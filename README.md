@@ -1,4 +1,5 @@
 # YouTube Insights - Tableau Visualization
+[YouTube Insights Dashboard](https://public.tableau.com/app/profile/vatsal.trivedi4685/viz/YoutubeInsights_17392653289680/Dashboard1?publish=yes)
 
 ## Project Overview
 This project provides an interactive Tableau visualization of YouTube video insights. The dataset contains various attributes related to video engagement, including views, watch percentage, likes, dislikes, comments, and shares. The visualization aims to help analyze trends based on different factors such as continent, age group, monetization status, and device type.
